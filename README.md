@@ -63,9 +63,13 @@ from sklearn.metrics import mean_squared_error
 ## Contributors
 
 Ben Lindauer
+
 Terrence Mccoy
+
 Tyler Goering
+
 Jacob Macpherson
+
 Evan Badding
 
 ---
